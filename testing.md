@@ -1,0 +1,1 @@
+You just clicked a relative link!

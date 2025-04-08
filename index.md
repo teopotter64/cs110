@@ -4,8 +4,8 @@
 
 [Who Am I](#who-am-i) \
 [My Goal](#my-goal) \
-[Skills](#skills) 
-[Skills](#hobbies) 
+[Skills](#skills) \
+[Hobbies](#hobbies) 
 
 ### Relative link
 

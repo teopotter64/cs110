@@ -2,9 +2,10 @@
 
 ### Headers
 
-[Who Am I](#skills) \
-[My Goal](#skills) \
+[Who Am I](#who-am-i) \
+[My Goal](#my-goal) \
 [Skills](#skills) 
+[Skills](#hobbies) 
 
 ### Relative link
 

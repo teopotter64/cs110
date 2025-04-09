@@ -31,6 +31,15 @@ Programming: `Java` \
 Game Development: `Unity`  \
 Language: `Turkish`, `English`
 
+My favorite piece of code is: 
+
+```
+public static void main(String[] args) {
+    
+}
+
+```
+
 ## Hobbies
 
 I like doing random quizzes on [Jet Punk](https://www.jetpunk.com/)
